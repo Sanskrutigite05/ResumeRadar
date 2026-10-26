@@ -1,0 +1,3 @@
+Data Analyst Intern
+
+We are looking for a data analyst intern to work with our analytics team. You will clean and analyse data using Python and SQL, build dashboards in Tableau or Power BI, and present insights to stakeholders. Experience with pandas, Excel and statistics is required. Knowledge of machine learning, A/B testing and cloud platforms such as AWS is a plus. Strong communication skills and attention to detail. You will automate recurring reporting and maintain dashboards used by business teams.
